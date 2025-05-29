@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dCLwYCdq8Lc=",
+  "dgSpecHash": "6dpgCZL5ghA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\ProdutoFonecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Documents\\ProdutoFornecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

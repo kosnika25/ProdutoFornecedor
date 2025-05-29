@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProdutoFonercedor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c39870286e683a48da46f49ae15e78973da1353")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d5760263eff027bea057cfdf64e04677d9db185")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProdutoFonercedor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProdutoFonercedor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\ProdutoFonecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\ProdutoFornecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\ProdutoFonecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj": {
+    "C:\\Users\\Aluno\\Documents\\ProdutoFornecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\ProdutoFonecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\ProdutoFornecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj",
         "projectName": "ProdutoFonercedor",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\ProdutoFonecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\ProdutoFornecedor\\ProdutoFonecedor\\ProdutoFonercedor.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\ProdutoFonecedor\\ProdutoFonecedor\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\ProdutoFornecedor\\ProdutoFonecedor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
